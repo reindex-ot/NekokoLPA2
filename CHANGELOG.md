@@ -2,6 +2,14 @@
 
 All notable changes to NekokoLPA2 will be documented in this file.
 
+## [2.0.0+27] - 2026-01-14
+
+### Added
+- **Phone Number Parsing**: Customizable E.164 / National Number Parsing
+
+### Fixed
+- **Card Switch Handling**: Better support for Android on OMAPI
+
 ## [2.0.0+26] - 2026-01-14
 
 ### Added
