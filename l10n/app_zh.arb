@@ -787,5 +787,6 @@
   "sortDefault": "默认",
   "sortNickname": "昵称",
   "showProfileSearch": "显示配置搜索",
-  "showProfileSearchSubtitle": "在配置列表中显示搜索和排序栏"
+  "showProfileSearchSubtitle": "在配置列表中显示搜索和排序栏",
+  "profilesInstalled": "已安装 {count} 个配置"
 }
