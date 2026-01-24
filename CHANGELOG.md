@@ -2,6 +2,18 @@
 
 All notable changes to NekokoLPA2 will be documented in this file.
 
+## [2.0.2+538] - 2026-01-22
+
+### Changed
+- **Version**: Bumped version to 2.0.2+538 to make Apple Happy.
+
+### Fixed
+- **TMAPI Handling**: Now it should work on Android 13- devices.
+- **Remote Card Handling**: Now it should work again.
+
+### Added
+- **Download Size Prediction**: Allow predicting download size before downloading.
+
 ## [2.0.1+537] - 2026-01-22
 
 ### Changed
