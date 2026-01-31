@@ -20,7 +20,7 @@
   "sizeDisplayUnit": "Unità capacità",
   "sizeDisplayUnitSubtitle": "Formato visualizzazione capacità della memoria",
   "phoneFormat": "Formato numero di telefono",
-  "phoneFormatSubtitle": "Formato di visualizzazione del numero di telefono"
+  "phoneFormatSubtitle": "Formato di visualizzazione del numero di telefono",
   "notifications": "Notifiche",
   "notificationSettings": "Impostazioni notifiche",
   "notificationSettingsSubtitle": "Configura l'elaborazione e la rimozione automatica",
