@@ -77,7 +77,6 @@
   "licenses": "Open Source Licenses",
   "licensesSubtitle": "License information for open source libraries used",
   "noUpdatesFound": "No updates found",
-
   "profilesTitle": "Profiles",
   "switchEstkSlot": "Switch eSTK Slot",
   "notificationsButton": "Notifications",
@@ -118,7 +117,6 @@
   "useProfileIconSubtitle": "Icon from eSIM card",
   "removeCustomIcon": "Remove Custom Icon",
   "noRemoteIcon": "No remote icon available for this operator",
-  
   "cancel": "Cancel",
   "ok": "OK",
   "save": "Save",
@@ -130,7 +128,6 @@
   "updatingProfile": "Updating profile...",
   "manageIsdR": "Manage ISD-R AIDs",
   "manageIsdRSubtitle": "Configure default Application IDs for eUICC",
-
   "transportFailed": "Transport Failed",
   "remoteTransportFailedMessage": "Connected to remote server, but the command failed. This usually means the remote device is momentarily busy or disconnected from the card. Would you like to retry?",
   "retry": "Retry",
@@ -657,9 +654,15 @@
   "updateAvailableSubtitle": "A new version of {appName} is available (v{version} b{build}). Would you like to update now?",
   "@updateAvailableSubtitle": {
     "placeholders": {
-      "appName": { "type": "String" },
-      "version": { "type": "String" },
-      "build": { "type": "String" }
+      "appName": {
+        "type": "String"
+      },
+      "version": {
+        "type": "String"
+      },
+      "build": {
+        "type": "String"
+      }
     }
   },
   "updateAction": "Update",
@@ -699,5 +702,5 @@
   "estimatedDownloadSize": "Estimated download size",
   "insufficientStorageWarning": "Insufficient storage for installation. Installation might fail.",
   "estimateProfileSize": "Estimate Profile Size",
-  "estimateProfileSizeSubtitle": "Estimate size of profile metadata before download"
+  "estimateProfileSizeSubtitle": "Show estimated download size for installed profiles"
 }

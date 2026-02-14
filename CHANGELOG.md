@@ -6,6 +6,26 @@ All notable changes to NekokoLPA2 will be documented in this file.
 ### Added
 - Add BeeSIM support
 
+## [2.0.2+543] - 2026-01-25
+
+RemoCard v2.0 and minor UI fixes
+
+## [2.0.2+542] - 2026-01-25
+
+Added a browser with signing capabilities.
+
+## [2.0.2+541] - 2026-01-25
+
+Profile Size Predictions, Optimized Reset Flag
+
+## [2.0.2+540] - 2026-01-24
+
+### Added
+- **IMEI**: Added IMEI to settings.
+
+### Fixed
+- **Wrong IMEI generation**: Fixed wrong IMEI generation. Previously it might contain non-numeric characters.
+
 ## [2.0.2+538] - 2026-01-22
 
 ### Changed
