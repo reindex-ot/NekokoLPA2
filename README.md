@@ -1,8 +1,16 @@
 # NekokoLPA2 - Advanced eSIM Management
+[![Crowdin](https://badges.crowdin.net/nekokolpa2/localized.svg)](https://crowdin.com/project/nekokolpa2)
+
 
 **Language:** **English** | [日本語](./README_ja-JP.md)
 
+
 NekokoLPA2 is a powerful, cross-platform eSIM management application supporting multiple card readers and advanced profile management features.
+
+## For Translatore:
+
+Translations is now managed with [Crowdin](https://crowdin.com/project/nekokolpa2).
+
 
 ## Features
 

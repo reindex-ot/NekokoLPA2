@@ -1,6 +1,17 @@
 # Changelog
 
 All notable changes to NekokoLPA2 will be documented in this file.
+## [2.0.4+557] - 2026-02-28
+
+### Added
+- Modify BLE Password for 9eSIM BLE Card
+
+## [2.0.4+555] - 2026-02-15
+
+### Added
+- Improved eSTK.me Card support
+- Added 9eSIM BLE Card support
+
 ## [2.0.2+546] - 2026-01-31
 
 ### Added
