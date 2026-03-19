@@ -4,6 +4,10 @@
 
 NekokoLPA2 は、複数のカードリーダーと高度なプロファイル管理機能をサポートする強力なクロスプラットフォームな eSIM 管理アプリです。
 
+## 翻訳
+
+[Crowdin](https://crowdin.com/project/nekokolpa2) にて管理しています。
+
 ## 機能
 
 - **複数のリーダーに対応**: BLE、USB CCID、OMAPI、Telephony API、リモートリーダーに対応
